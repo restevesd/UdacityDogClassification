@@ -1,4 +1,4 @@
-This project is also has a entrance in Medium.com at [link](https://medium.com/@denizdoruknuholu/dog-breed-classification-using-cnns-f042fbe0f333)
+This project is also has a entrance in Medium.com at [link](https://medium.com/@restevesd/deep-learning-for-image-classification-4a0c3c112da)
 
 [//]: # (Image References)
 
