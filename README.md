@@ -31,7 +31,7 @@ Along with exploring state-of-the-art CNN models for classification, you will ma
 - PIL
 
 ### File Descriptions
-- There are 4 folders, 1 notebooks and 1 python script in this repo. The **bottleneck_features** folder should contain the VGG16 bottleneck features which is implemented in the Step 4 of the dog_app.ipynb file.
+- There are 5 folders, 1 notebooks and 1 python script in this repo.
 
 - The **haarcascades** folder should contain the OpenCV haarcascades face detector model.
 
