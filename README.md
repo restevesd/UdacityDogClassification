@@ -46,3 +46,6 @@ Along with exploring state-of-the-art CNN models for classification, you will ma
 - The **extract_bottleneck_features.py** script contains the caller functions for downloading the pretrained models and predicting models with them.
 
 - The **dog_app.ipynb** notebook is the main file which displays the classifcation models and illustartions.
+
+## License
+The contents of this repository are covered under the [MIT License](https://github.com/restevesd/UdacityDogClassification/blob/master/LICENSE.txt)
