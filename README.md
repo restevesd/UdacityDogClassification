@@ -39,6 +39,8 @@ Along with exploring state-of-the-art CNN models for classification, you will ma
 
 - The **requeriments** folder containing the necessary dependencies
 
+- The **bottleneck_features** folder for pretrained models which can be downloaded from link in notebook
+
 - The **saved_models** folder should contain the files for the pretrained ResNet50, this files is copied by the code of the notebook.
 
 - The **extract_bottleneck_features.py** script contains the caller functions for downloading the pretrained models and predicting models with them.
